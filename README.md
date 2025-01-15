@@ -12,7 +12,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ Este repositório foi desenvolvido para o Bootcamp da CAIXA com parceira com a [DIO](https://dio.me)
+ > ℹ️ Este repositório foi desenvolvido para o Bootcamp da CAIXA (IA Generativa com Microsoft Copliot) em parceira com a [DIO](https://dio.me)
 
  > ℹ️ O objetivo desse projeto é gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
